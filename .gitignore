@@ -1,0 +1,11 @@
+# Node.js
+frontend/node_modules/
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/env/  # If using a virtual environment
+
+# General
+*.log
+.env
